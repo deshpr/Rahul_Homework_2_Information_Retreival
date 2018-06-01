@@ -1,0 +1,10 @@
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\obj\Debug\Homework_2.csprojResolveAssemblyReference.cache
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\obj\Debug\Homework_2.csproj.CoreCompileInputs.cache
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\bin\Debug\Homework_2.exe.config
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\bin\Debug\Homework_2.exe
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\bin\Debug\Homework_2.pdb
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\bin\Debug\MathNet.Numerics.dll
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\bin\Debug\MathNet.Numerics.xml
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\obj\Debug\Homework_2.csproj.CopyComplete
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\obj\Debug\Homework_2.exe
+c:\users\radeshpa\source\repos\Homework_2\Homework_2\obj\Debug\Homework_2.pdb
